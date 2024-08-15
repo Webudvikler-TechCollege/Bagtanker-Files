@@ -1,12 +1,12 @@
-"id","title","teaser","content","image","created_at","active"
-"7134e529-33b8-11ef-a9aa-001dd8b71d59","Moderne Surdejsbrød: En Kulinarisk Favorit","Surdejsbrød har gennem de seneste år oplevet en bemærkelsesværdig renæssance og er blevet en favorit i moderne køkkener.","Surdejsbrød har gennem de seneste år oplevet en bemærkelsesværdig renæssance og er blevet en favorit i moderne køkkener. Denne traditionelle bagemetode bruger naturlig gæring, hvor en blanding af mel og vand tiltrækker vilde gær- og bakteriekulturer fra omgivelserne. Denne proces giver brødet en karakteristisk syrlig smag, en sprød skorpe og en sej, aromatisk krumme.
+id,title,teaser,content,image_id,created_at,is_active
+7134e529-33b8-11ef-a9aa-001dd8b71d59,Moderne Surdejsbrød: En Kulinarisk Favorit,Surdejsbrød har gennem de seneste år oplevet en bemærkelsesværdig renæssance og er blevet en favorit i moderne køkkener.,"Surdejsbrød har gennem de seneste år oplevet en bemærkelsesværdig renæssance og er blevet en favorit i moderne køkkener. Denne traditionelle bagemetode bruger naturlig gæring, hvor en blanding af mel og vand tiltrækker vilde gær- og bakteriekulturer fra omgivelserne. Denne proces giver brødet en karakteristisk syrlig smag, en sprød skorpe og en sej, aromatisk krumme.
 
 Hemmeligheden bag surdejsbrødets popularitet ligger i både smag og sundhed. Den naturlige gæringsproces nedbryder gluten, hvilket gør brødet lettere fordøjeligt og mere næringsrigt end konventionelt gærbrød. Fermenteringen øger også indholdet af mineraler som magnesium og zink, og de probiotiske bakterier kan fremme en sund tarmflora.
 
 At bage surdejsbrød kræver tid og præcision, hvilket gør hver brød til et håndværksprodukt. Bagere og hjemmekokke nyder udfordringen ved at skabe det perfekte surdejsbrød, hvor både temperatur, fugtighed og tid spiller afgørende roller i det endelige resultat. Surdejsbrødets tekstur og smag varierer afhængigt af meltype og de unikke mikroorganismer i surdejsstarteren, hvilket gør hvert brød unikt.
 
-Med sin kombination af kompleks smag, sundhedsfordele og bæredygtighed er surdejsbrød mere end en forbigående trend. Det repræsenterer en tilbagevenden til autentiske, langsomme bagemetoder, der værdsætter kvalitet og tradition. I en verden, der bevæger sig hurtigt, tilbyder surdejsbrød en lækker påmindelse om værdien af tålmodighed og håndværk i madlavning.","https://api.mediehuset.net/images/bakeonline/news/article.jpg","2019-08-18 00:00:00",1
-"7134e72e-33b8-11ef-a9aa-001dd8b71d59","Veganske Kanelsnegle: En Moderne Klassiker","Veganske kanelsnegle er blevet en moderne klassiker, der vinder popularitet blandt både veganere og ikke-veganere. ","Veganske kanelsnegle er blevet en moderne klassiker, der vinder popularitet blandt både veganere og ikke-veganere. Disse lækre bagværk bevarer den traditionelle kanelsnegls bløde, søde og krydrede smag, men er fremstillet uden animalske produkter.
+Med sin kombination af kompleks smag, sundhedsfordele og bæredygtighed er surdejsbrød mere end en forbigående trend. Det repræsenterer en tilbagevenden til autentiske, langsomme bagemetoder, der værdsætter kvalitet og tradition. I en verden, der bevæger sig hurtigt, tilbyder surdejsbrød en lækker påmindelse om værdien af tålmodighed og håndværk i madlavning.",31acd188-f181-4f17-bb53-ffb2cce7b64d,2023-12-18 16:39:21+00,true
+7134e72e-33b8-11ef-a9aa-001dd8b71d59,Veganske Kanelsnegle: En Moderne Klassiker,"Veganske kanelsnegle er blevet en moderne klassiker, der vinder popularitet blandt både veganere og ikke-veganere. ","Veganske kanelsnegle er blevet en moderne klassiker, der vinder popularitet blandt både veganere og ikke-veganere. Disse lækre bagværk bevarer den traditionelle kanelsnegls bløde, søde og krydrede smag, men er fremstillet uden animalske produkter.
 
 I stedet for smør og mælk anvendes plantebaserede alternativer som mandelmælk, kokosolie eller vegansk margarine, som giver dejen en dejlig blød og luftig konsistens. Fyldet består af en blanding af brun sukker, kanel og vegansk smør, der smelter sammen til en aromatisk og karamelliseret kerne.
 
@@ -19,15 +19,15 @@ Uanset om man er veganer eller blot nysgerrig, er veganske kanelsnegle en delika
 
 
 
-","https://api.mediehuset.net/images/bakeonline/news/article2.jpg","2019-08-18 00:00:00",1
-"7134e893-33b8-11ef-a9aa-001dd8b71d59","Kageordning i fitnesscenteret","I fitnesscenterets bageri er kageordningen en perfekt kombination af sundhed og smag. ","I fitnesscenterets bageri er kageordningen en perfekt kombination af sundhed og smag. 
+",3866a65c-a582-49f3-b7b7-9a66ee2026c5,2024-05-18 12:36:22+00,true
+7134e893-33b8-11ef-a9aa-001dd8b71d59,Kageordning i fitnesscenteret,"I fitnesscenterets bageri er kageordningen en perfekt kombination af sundhed og smag. ","I fitnesscenterets bageri er kageordningen en perfekt kombination af sundhed og smag. 
 
 Tilpasset til at imødekomme fitnessentusiasternes behov tilbyder bageriet et udvalg af lækre og næringsrige kager. Fra proteinrige muffins til glutenfri frugtkager og sukkerfattige alternativer, er hver bid designet til at støtte træning og velvære. 
 
 Disse kager bruger kvalitetsingredienser som friske frugter, havregryn og naturlige sødemidler for at sikre smag uden skyldfølelse. Denne unikke tilgang til bageri gør det muligt for medlemmer at nyde lækkerier uden at afvige fra deres fitnessmål. 
 
-Bageriets kageordning er ikke bare en behandling, men en del af en balanceret livsstil, der fremmer sundhed og trivsel.","https://api.mediehuset.net/images/bakeonline/news/article3.jpg","2019-08-18 00:00:00",1
-"7134e952-33b8-11ef-a9aa-001dd8b71d59","Miljø- og fødevareministeren forbyder rosiner i bagværk","Det skal være slut med rosiner i boller, kringler og squashkage. Det slår miljø- og fødevareminister Jakob Ellemann-Jensen fast med et forbud og opretter samtidig en task-force, der skal sørge for bagere og institutioner overholder forbuddet. Forbuddet vil frigøre tid hos personale i dagsinstitutioner og på plejehjem, som bruger ressourcer på at fjerne rosinerne.","De fleste kender følelsen af at sætte tænderne i det, de troede var, en helt almindelig bolle med smør, for blot at blive overrasket af en hær af små smattede, brunlige rosiner.
+Bageriets kageordning er ikke bare en behandling, men en del af en balanceret livsstil, der fremmer sundhed og trivsel.",418f451a-2405-4b56-841e-06dafb4d7f40,2024-05-30 19:14:12+00,true
+7134e952-33b8-11ef-a9aa-001dd8b71d59,Miljø- og fødevareministeren forbyder rosiner i bagværk,"Det skal være slut med rosiner i boller, kringler og squashkage. Det slår miljø- og fødevareminister Jakob Ellemann-Jensen fast med et forbud og opretter samtidig en task-force, der skal sørge for bagere og institutioner overholder forbuddet. Forbuddet vil frigøre tid hos personale i dagsinstitutioner og på plejehjem, som bruger ressourcer på at fjerne rosinerne.","De fleste kender følelsen af at sætte tænderne i det, de troede var, en helt almindelig bolle med smør, for blot at blive overrasket af en hær af små smattede, brunlige rosiner.
 
 Men fra 1. oktober vil det blive forbudt for landets bagere og institutionskøkkener at putte rosiner i bagværk.
 
@@ -42,8 +42,8 @@ For at forbuddet hurtigt får virkning har miljø- og fødevareministeren nedsat
 
 - Så snart forbuddet træder i kraft 1. oktober, vil den nye task-force tage på kontrolbesøg for at se på udvalget hos bagere og brødproducenter. Virksomhederne skal have lov til at tømme deres lagre, men herefter vil det give bødestraf ikke at overholde forbuddet. I institutionerne vil de også vejlede om alternativer til rosiner – fx sukker eller ingenting, siger Jakob Ellemann-Jensen.
 
-Forbuddet mod rosiner i bagværk gælder også sukat.","https://api.mediehuset.net/images/bakeonline/news/article.jpg","2019-08-18 00:00:00",1
-"7134e9d1-33b8-11ef-a9aa-001dd8b71d59","Kage-koks: EU truer kanelsneglen","Dræber-snegl: EU-forordning kan begrænse mængden af kanel i snegle. Fødevarestyrelsen vil ikke kalde en dem for 'traditionel dansk bagværk'. Svenskerne har reddet deres kanelbolle","EU-debatten om lakridspiben gik op i røg.
+Forbuddet mod rosiner i bagværk gælder også sukat.",31acd188-f181-4f17-bb53-ffb2cce7b64d,2024-06-08 14:06:16+00,true
+7134e9d1-33b8-11ef-a9aa-001dd8b71d59,Kage-koks: EU truer kanelsneglen,Dræber-snegl: EU-forordning kan begrænse mængden af kanel i snegle. Fødevarestyrelsen vil ikke kalde en dem for 'traditionel dansk bagværk'. Svenskerne har reddet deres kanelbolle,"EU-debatten om lakridspiben gik op i røg.
 
 Men det betyder ikke, at EU-systemet ikke på andre måder kan blande sig i vores ellers så danske spisevaner.
 
@@ -81,8 +81,8 @@ Halvdelen af alle de kontrolprøver, som Fødevarestyrelsen har foretaget af kag
 
 - Nogle bagere bruger under de 15 milligram, og så er der nogen, der skiller sig markant ud og bruger meget mere. Vi stiller bare lidt højere krav til bagerne om, hvor meget kumarin, de putter i deres kager.
 
-I Sverige har myndighederne godkendt kanelboller som værende traditionelt bagværk, så de kan indeholde de høje grænseværdier på 50 milligram per kilo.","https://api.mediehuset.net/images/bakeonline/news/article2.jpg","2019-08-18 00:00:00",1
-"7134eada-33b8-11ef-a9aa-001dd8b71d59","Othellolagkagen er indbegrebet af dansk lagkagekultur","Bagedystdeltagerne skulle i sæsonpremieren lave lagkagen over alle lagkager. En kage vi har elsket i over 100 år.","Det er kagen, der altid vækker begejstring. Kagen, du kan købe ved enhver bager med respekt for sig selv, og kagen man bør kunne mestre - hvis man ellers vil være med i kageklubben.
+I Sverige har myndighederne godkendt kanelboller som værende traditionelt bagværk, så de kan indeholde de høje grænseværdier på 50 milligram per kilo.",3866a65c-a582-49f3-b7b7-9a66ee2026c5,2024-06-19 06:46:03+00,true
+7134eada-33b8-11ef-a9aa-001dd8b71d59,Othellolagkagen er indbegrebet af dansk lagkagekultur,Bagedystdeltagerne skulle i sæsonpremieren lave lagkagen over alle lagkager. En kage vi har elsket i over 100 år.,"Det er kagen, der altid vækker begejstring. Kagen, du kan købe ved enhver bager med respekt for sig selv, og kagen man bør kunne mestre - hvis man ellers vil være med i kageklubben.
 
 Sådan lød Timm Vladimirs beskrivelse af den velkendte og elskede othellolagkage, da han præsenterede den hemmelige udfordring i denne uges afsnit af Den store bagedyst.
 
@@ -115,4 +115,4 @@ At lagkagen er et fænomen fra 1900-tallet skyldtes desuden at også kaffe-kultu
 For både konditorer og husmødre blev lagkagen allerede dengang en slags statement for hvad man kunne præstere i køkkenet - præcis som det er i dag, siger Bettina Buhl.
 
 Danske kage-klassikere
-Vil du selv prøve at bage en othellolagkage efter alle kunstens regler, kan du finde bagedystdommer Katrine Foged Thomsens opskrift lige her. Det er samme opskrift, som bagedystdeltagerne bagte efter i sæsonpremieren i af Den store bagedyst.","https://api.mediehuset.net/images/bakeonline/news/article.jpg","2019-08-18 00:00:00",1
+Vil du selv prøve at bage en othellolagkage efter alle kunstens regler, kan du finde bagedystdommer Katrine Foged Thomsens opskrift lige her. Det er samme opskrift, som bagedystdeltagerne bagte efter i sæsonpremieren i af Den store bagedyst.",418f451a-2405-4b56-841e-06dafb4d7f40,2024-08-15 09:03:58+00,true
